@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;Ex&apos; to &apos;Livro_Java_para_Iniciantes/src&apos;&#x0D;&#x0A;- Original project: &apos;Ex10_Livro2&apos;&#x0D;&#x0A;- Destination element: &apos;Livro_Java_para_Iniciantes/src&apos;&#x0D;&#x0A;- Original element: &apos;Ex10_Livro2/src/Ex&apos;" description="Copy package" destination="=Livro_Java_para_Iniciantes/src" element1="/src&lt;Ex" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1709251802405" version="1.0"/>
+</session>

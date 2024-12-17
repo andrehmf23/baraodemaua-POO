@@ -1,0 +1,5 @@
+Explicação de Pacote "Only"
+
+Nesse pacote contém todas classes únicas derivadas de EXISTENCE, com excessão a instruções de controle 
+(main) que gerenciam todo funcionamento das classes. Não coloque as DERIVAÇÕES HERDADAS, ou seja, filhas 
+das seguintes classes nesse pacote: ActionUnits, AttackUnits, Animals, Collectibles, Waterproof e Constructions.

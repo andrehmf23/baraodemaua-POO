@@ -1,0 +1,15 @@
+1726963467207	Delete element
+1726969965483	Rename type 'DataBase'
+1726972016327	Delete element
+1727017443821	Rename local variable 'nivelMaximo'
+1727017454987	Rename method 'getNivelMaximo'
+1727018562445	Delete element
+1727031291041	Delete element
+1727031294964	Delete element
+1727048205065	Delete element
+1727190277616	Rename field 'next_state'
+1727190292765	Rename field 'char_accepts'
+1727190301217	Rename field 'list_accepts'
+1727199082899	Rename type 'Qx'
+1727199203563	Rename field 'connect'
+1727199214071	Rename field 'listconnect'

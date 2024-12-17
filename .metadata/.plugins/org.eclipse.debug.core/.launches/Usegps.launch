@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/Livro_Java_8_Ensino_Didático/src/cap07/Usegps.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="cap07.Usegps"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="Livro_Java_8_Ensino_Didático"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Livro_Java_8_Ensino_Didático"/>
+</launchConfiguration>
