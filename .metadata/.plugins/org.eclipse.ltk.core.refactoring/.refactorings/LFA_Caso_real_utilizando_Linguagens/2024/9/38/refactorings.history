@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;entity&apos; to &apos;entities&apos;&#x0D;&#x0A;- Original project: &apos;LFA_Caso_real_utilizando_Linguagens&apos;&#x0D;&#x0A;- Original element: &apos;LFA_Caso_real_utilizando_Linguagens/src/entity&apos;&#x0D;&#x0A;- Renamed element: &apos;LFA_Caso_real_utilizando_Linguagens/src/entities&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;entity&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;entity" name="entities" qualified="false" references="true" stamp="1726956988634" textual="false" version="1.0"/>
-</session>

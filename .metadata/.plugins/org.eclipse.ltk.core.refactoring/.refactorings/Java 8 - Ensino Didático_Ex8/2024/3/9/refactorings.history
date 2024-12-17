@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy package &apos;cap01&apos; to &apos;Livro_Java_8_Ensino_Didático/src&apos;&#x0D;&#x0A;- Original project: &apos;Java 8 - Ensino Didático_Ex8&apos;&#x0D;&#x0A;- Destination element: &apos;Livro_Java_8_Ensino_Didático/src&apos;&#x0D;&#x0A;- Original element: &apos;Java 8 - Ensino Didático_Ex8/src/cap01&apos;" description="Copy package" destination="=Livro_Java_8_Ensino_Didático/src" element1="/src&lt;cap01" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1709251676776" version="1.0"/>
-</session>
